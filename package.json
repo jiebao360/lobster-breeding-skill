@@ -1,0 +1,17 @@
+{
+  "name": "lobster-breeding-skill",
+  "version": "5.0.0",
+  "displayName": "三省六部虾群 - 多 Agent 养成系统",
+  "description": "完整的 OpenClaw 多 Agent 系统养成指南",
+  "author": "来合火",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rfdiosuao/lobster-breeding-skill"
+  },
+  "keywords": ["openclaw", "multi-agent", "productivity", "guide"],
+  "main": "src/index.js",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
